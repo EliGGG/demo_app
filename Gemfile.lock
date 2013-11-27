@@ -114,7 +114,11 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.1)
+<<<<<<< HEAD
   jbuilder (= 1.0.2)
+=======
+  jbuilder (~> 1.0.2)
+>>>>>>> a4e2f55567e32f2b30777a78f4bfcf03362230a2
   jquery-rails (= 3.0.4)
   pg (= 0.15.1)
   rails (= 4.0.1)
